@@ -1,0 +1,13 @@
+# GUI
+customtkinter>=5.2.2
+
+# HTTP requests to the local Ollama API
+requests>=2.31.0
+
+# Optional internet search (the feature is enabled only by the checkbox)
+ddgs>=9.0.0
+
+# Local document readers
+pypdf>=5.0.0
+python-docx>=1.1.2
+openpyxl>=3.1.5
